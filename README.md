@@ -3,7 +3,12 @@
 > A Vue.js project
 
 ## Build Setup
-
+商品滚动，商品滚轮滚动
+商品联动
+加入购物车，移除购物车
+显示评论评论筛选
+图片左右滑动
+商品详情父子组件的通信
 ``` bash
 # install dependencies
 npm install
