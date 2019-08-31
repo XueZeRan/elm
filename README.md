@@ -1,6 +1,11 @@
 # selltwo
 
 >一个Vue.js项目
+
+## Build Setup
+# selltwo
+
+>一个Vue.js项目
 >项目功能
 商品滚动，商品滚轮滚动
 商品联动
