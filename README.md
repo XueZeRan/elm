@@ -67,16 +67,16 @@
 # vue-cli少了很多文件，要修改路径方法如下
 ## 立即联想到需要改输入路径的地址。却尴尬的发现之前的build和config文件夹不见了。查阅后发现如果需要自定义配置，需要在项目的 根目录添加一个## Vue.config.js。在这个文件中，我们可以进行一些个性化定制
 
-module.exports = {
-    // 基本路径
-    baseUrl: './',
-    // 生产环境是否生成 sourceMap 文件
-    productionSourceMap: false,
-    // 服务器端口号
-    devServer: {
-        port: 1234,
-    }
-}
+## module.exports = {
+##    // 基本路径
+##    baseUrl: './',
+##    // 生产环境是否生成 sourceMap 文件
+##    productionSourceMap: false,
+##    // 服务器端口号
+##    devServer: {
+##        port: 1234,
+##    }
+##}
 # ----------------
 ## Build Setup
 ``` bash
