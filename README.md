@@ -76,7 +76,7 @@
 ##    devServer: {
 ##        port: 1234,
 ##    }
-##}
+## }
 # ----------------
 ## Build Setup
 ``` bash
